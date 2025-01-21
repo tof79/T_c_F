@@ -570,12 +570,12 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ T 0 F
+**☆ - 𝗆𝗎𝗌𝗍𝖺𝖿𝖺
 ☆ الاصدار : 1.2
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ تـوب سـورس : @T_c_F**
+☆ تـوب سـورس : @x99g9**
 ''')
 
 
